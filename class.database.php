@@ -5,7 +5,7 @@
 ?>
 <?php
 class class_db {
-    PUBLIC  $conn=NULL;
+    public $conn=NULL;
     
     CONST user      =   'test',
           pass      =   'test5678',
